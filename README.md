@@ -1,6 +1,7 @@
 
 <h1>Postman<h2><br/>
-<b>01 - Introduction | What is POSTMAN</b>
+
+<b>01 - Introduction | What is POSTMAN<b><br/>
 <b>What is Postman?</b>
 Postman is a Google Chrome app for interacting with HTTP APIs. It presents you with a friendly GUI for constructing requests and reading responses. The people behind Postman also offer an add-on package called Jetpacks, which includes some automation tools and, most crucially, a Javascript testing library.
 <b>API Client</b>
