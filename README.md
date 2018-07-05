@@ -9,7 +9,7 @@ API Client
 A client library, sometimes called a helper library, is a set of code that application developers can add to their development projects. It provides chunks of code that do the basic things an application needs to do in order to interact with the API.
 develop, test, share, document APIs
 
-Step 1: Open Postman webpage - https://www.getpostman.com/
-Step 2: Create a free account
-Step 3: Activate the account
-Step 4: Download and install postman app
+Step 1: Open Postman webpage - https://www.getpostman.com/<br/>
+Step 2: Create a free account<br/>
+Step 3: Activate the account<br/>
+Step 4: Download and install postman app<br/>
