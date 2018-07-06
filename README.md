@@ -13,3 +13,16 @@ Step 1: Open Postman webpage - https://www.getpostman.com/<br/>
 Step 2: Create a free account<br/>
 Step 3: Activate the account<br/>
 Step 4: Download and install postman app<br/>
+
+Professional API Testing using POSTMAN - Tips & Tricks<br/>
+01. Import Requests<br/>
+always try to import request from the browser rather creating
+Use the Import button-> Paste Raw Text (Paste your CURL copied from chrome)
+02. Use Create Collections<br/>
+Create Collection for the 
+ 03. Write Test Cases<br/>
+04. Use folder Structure for the Different req.<br/>
+05. JSON Schema validation<br/>
+06. Leverage Postman BDD<br/>
+07. Control test workflows<br/>
+08. Use Environment & Dynamic Variables<br/>
