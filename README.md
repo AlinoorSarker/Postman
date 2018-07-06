@@ -20,7 +20,7 @@ always try to import request from the browser rather creating
 Use the Import button-> Paste Raw Text (Paste your CURL copied from chrome)
 02. Use Create Collections<br/>
 Create Collection for the 
- 03. Write Test Cases<br/>
+03. Write Test Cases<br/>
 04. Use folder Structure for the Different req.<br/>
 05. JSON Schema validation<br/>
 06. Leverage Postman BDD<br/>
