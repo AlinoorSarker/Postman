@@ -26,3 +26,15 @@ Create Collection for the
 06. Leverage Postman BDD<br/>
 07. Control test workflows<br/>
 08. Use Environment & Dynamic Variables<br/>
+
+
+<b>How to set and get VARIABLES through SCRIPTING\par</b><br/>
+
+1. How to get variables through scripts\par<br/>
+2. How to set variables through scripts\par<br/>
+//pm.variables.get();\par<br/>
+//pm.variables.set();\par<br/>
+//pm.globals.get();\par<br/>
+//pm.globals.set();\par<br/>
+//pm.environment.get();\par<br/>
+//pm.environment.set();\par<br/>
