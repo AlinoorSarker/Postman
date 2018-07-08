@@ -38,3 +38,16 @@ Create Collection for the
 //pm.globals.set();<br/>
 //pm.environment.get();<br/>
 //pm.environment.set();<br/>
+
+
+<b>How to DEBUG</b><br/>
+1. How to debug with Postman Console<br/>
+2. How to open Postman Console window<br/>
+3. Information shown on Postman Console window<br/>
+4. Clear logs<br/>
+5. console.log()<br/>
+    console.info()<br/>
+    console.warn()<br/>
+    console.error()<br/>
+6. App Debug Logs : Developer - DevTools<br/>
+
