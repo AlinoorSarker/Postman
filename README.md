@@ -27,6 +27,26 @@ Create Collection for the
 07. Control test workflows<br/>
 08. Use Environment & Dynamic Variables<br/>
 
+<b>API calls Collection include mainly three things:</b><br/>
+
+HTTP headers<br/>
+HTTP Request  (POST,GET,PUT,DELETE )<br/>
+Status Code/ Response Code<br/>
+
+Status Code/Response Code - There are many status/response code, from them we can verify the response.<br/>
+
+200 - OK, The request was successful.<br/>
+201 - Created, The request was successful and data was created.<br/>
+204 - No Content, The response is empty.<br/>
+400 - Bad Request, The request could not be understood or was missing required parameters.<br/>
+401 – Unauthorized, Authentication failed or user does not have permissions for the requested operation.<br/>
+403 - Forbidden, Access denied.<br/>
+404 - Not Found, Data was not found.<br/>
+405 - Method Not Allowed, Requested method is not supported for the specified resource.<br/>
+500 - Internal Server Error.<br/>
+503 - Service Unavailable, The service is temporary unavailable.<br/>
+
+
 
 <b>How to set and get VARIABLES through SCRIPTING</b><br/>
 
